@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Fauzi!
+I am a new graduate who took part in training at one of the Qa Engineer training camps, have knowledge to create test cases and test scenarios for web automation using Selenium Java, load tests using Jmeter, API testing using Postman
 
 <!--
 **Mfauzi1999/Mfauzi1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
